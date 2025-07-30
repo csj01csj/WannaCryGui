@@ -1,7 +1,7 @@
 # WannacryGui (Fake Ransomware UI)
 
-⚠️ **Disclaimer**:  
-This project is for educational and demonstration purposes **only**.  
-It does not actually encrypt or decrypt files, and it is not intended for any malicious use.  
+⚠️ **경고**:  
+이 프로젝트는 교육용으로 제작되었습니다. 이 프로젝트를 악용하는 경우 책임은 당신에게 있습니다.
 
-WannacryGui is a mock user interface that mimics the look of a ransomware-style popup (such as the infamous WannaCry) for fun or educational simulation. It does not perform any real harm to the system.
+WannacryGui는 Wannacry악성코드의 Gui와 흡사한 Fake virus입니다.
+python으로 제작 후 exe로 변환하였습니다.
